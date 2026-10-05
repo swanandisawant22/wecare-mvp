@@ -1,6 +1,37 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 \# WeCare 💚
 
 \### Privacy-Preserving Elderly Health \& Safety Monitoring Using Wi-Fi Sensing
+## 🌐 Live Prototype
+
+The deployed WeCare prototype is available here:
+
+https://wecare-mvp-d8ezdak9ta3tawewu8hfdq.streamlit.app/
+
+> The current MVP demonstrates Wi-Fi CSI-based activity recognition using a trained machine-learning model and prototype safety-monitoring interfaces.
 
 
 
